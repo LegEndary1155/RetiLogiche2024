@@ -214,7 +214,6 @@ USE IEEE.NUMERIC_STD.ALL;
 -- --------------------------------------------------
 -- note: - 
 --       - macchina di Moore
---       - Ricontrollare nome dell'architecture
 --------------------------------------------------
 
 -- entity
